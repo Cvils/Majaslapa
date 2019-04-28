@@ -42,3 +42,9 @@
     text-decoration: none;
     color: gold;
 }
+.mgallery{
+    text-align: center;
+}
+.gallery{
+    max-width: 100px;
+}
